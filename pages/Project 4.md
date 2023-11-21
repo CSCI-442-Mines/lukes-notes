@@ -15,14 +15,21 @@
 	- ## Priority
 	  id:: 655bb1a3-335e-4382-a5d9-050fbc627947
 		- ### Overview
+		  id:: 655be330-7d1f-49d0-b6af-b538c4e17984
 			- There are ((655bb258-b506-47d8-8a3d-812ffc646fbe))
 			- We want to run the oldest process with the lowest priority (in value, lower values = higher priority) in the queue. This means all threads with a priority of `SYSTEM` should run before any thread with `INTERACTIVE`.
 		- ### Implementation
+		  id:: 655be330-8095-492b-aace-5db220498502
 			- Use a ((655bb39e-e38e-4ff0-ac20-bfc357b8f8a7)) for underlying data structure.
+			- Keep an array of length 4 (for the number of priorities) to store the length for each priority.
 	- ## Multi-level Feedback Queue
+	  id:: 655be330-1ec7-4401-9d71-7c411abee1b7
+	  collapsed:: true
 		- ### Overview
+		  id:: 655be330-6e35-47b9-ad7b-a33ed18d36f0
 			- Basically multiple ((655bb1a3-335e-4382-a5d9-050fbc627947)) implementations.
 		- ### Implementation
+		  id:: 655be330-f0a6-4ad7-84a6-3e6055bf279f
 			- Use an array or vector of 10 ((655bb39e-e38e-4ff0-ac20-bfc357b8f8a7))s.
 				- Every queue level has a different time slice, equal to $2^i$, where $i$ is the queue index.
 				  collapsed:: true
