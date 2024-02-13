@@ -3,95 +3,6 @@
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 1
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [1408 896]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label ""
-:id "6395ed70-8808-11ee-9787-1958faad71df"
-:fontWeight 400
-:noFill false
-:point [-128 -160]
-:fontSize 20
-:parentId "655be45e-443f-481b-af66-f74bdba56889"
-:nonce 1700528011593
-:italic false}}
-:block/updated-at 1700529042045} 
-{:block/created-at 1700529042045
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 2
-:scale [1 1]
-:pageId "655be330-f0a6-4ad7-84a6-3e6055bf279f"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [832 674.3750610351562]
-:strokeType "line"
-:strokeWidth 2
-:opacity 0
-:id "aa48d5c0-8808-11ee-9787-1958faad71df"
-:noFill false
-:point [416 32]
-:parentId "655be45e-443f-481b-af66-f74bdba56889"
-:collapsedHeight 0
-:nonce 1700528129706}}
-:block/updated-at 1700529042045} 
-{:block/content "Overvi"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "655be45e-443f-481b-af66-f74bdba56889"}
-:block/parent 
-{:block/uuid #uuid "655be45e-443f-481b-af66-f74bdba56889"}
-:block/uuid #uuid "655c0036-c9c1-4433-9c35-22e83e3fb1a5"} 
-{:block/created-at 1700529042045
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 3
-:scale [1 1]
-:pageId "655be330-6e35-47b9-ad7b-a33ed18d36f0"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [480 156.59375]
-:strokeType "line"
-:strokeWidth 2
-:opacity 0
-:id "cc9225f0-8808-11ee-9787-1958faad71df"
-:noFill false
-:point [-96 32]
-:parentId "655be45e-443f-481b-af66-f74bdba56889"
-:collapsedHeight 0
-:nonce 1700528187156}}
-:block/updated-at 1700529042045} 
-{:block/created-at 1700529042045
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
 :collapsed false
@@ -115,33 +26,124 @@
 :collapsedHeight 0
 :nonce 1700528417078}}
 :block/updated-at 1700529042045} 
+{:block/created-at 1707867261319
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "655be330-f0a6-4ad7-84a6-3e6055bf279f"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [832 674.3751028299097]
+:strokeType "line"
+:strokeWidth 2
+:opacity 0
+:id "aa48d5c0-8808-11ee-9787-1958faad71df"
+:noFill false
+:point [416 32]
+:parentId "655be45e-443f-481b-af66-f74bdba56889"
+:collapsedHeight 0
+:nonce 1700528129710}}
+:block/updated-at 1707867261319} 
 {:block/created-at 1700529042045
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
+:rotation 0
 :collapsed false
 :borderRadius 8
-:index 5
+:index 7
 :scale [1 1]
-:pageId "655bb1a3-335e-4382-a5d9-050fbc627947"
-:scaleLevel "xl"
+:pageId "655be330-8095-492b-aace-5db220498502"
+:scaleLevel "md"
 :fill ""
-:compact true
+:compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [800 126]
+:size [832 185.59375]
 :strokeType "line"
 :strokeWidth 2
 :opacity 0
-:id "90f850e0-8809-11ee-9787-1958faad71df"
+:id "7129f650-880a-11ee-9787-1958faad71df"
 :noFill false
-:point [1344 -128]
+:point [1856 32]
 :parentId "655be45e-443f-481b-af66-f74bdba56889"
 :collapsedHeight 0
-:nonce 1700528516537}}
+:nonce 1700528892671}}
 :block/updated-at 1700529042045} 
+{:block/content "Overvi"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655be45e-443f-481b-af66-f74bdba56889"}
+:block/parent 
+{:block/uuid #uuid "655be45e-443f-481b-af66-f74bdba56889"}
+:block/uuid #uuid "655c0036-c9c1-4433-9c35-22e83e3fb1a5"} 
+{:block/created-at 1707867261576
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "655be330-6e35-47b9-ad7b-a33ed18d36f0"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [480 156.59371409530263]
+:strokeType "line"
+:strokeWidth 2
+:opacity 0
+:id "cc9225f0-8808-11ee-9787-1958faad71df"
+:noFill false
+:point [-96 32]
+:parentId "655be45e-443f-481b-af66-f74bdba56889"
+:collapsedHeight 0
+:nonce 1700528187158}}
+:block/updated-at 1707867261576} 
+{:block/created-at 1700529042042
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1408 896]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "c67ac850-880a-11ee-9787-1958faad71df"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1312 -160]
+:fontSize 20
+:parentId "655be45e-443f-481b-af66-f74bdba56889"
+:nonce 1700528011691
+:italic false}}
+:block/updated-at 1700529042042} 
 {:block/created-at 1700529042045
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -176,36 +178,35 @@
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
-:rotation 0
 :collapsed false
 :borderRadius 8
-:index 7
+:index 5
 :scale [1 1]
-:pageId "655be330-8095-492b-aace-5db220498502"
-:scaleLevel "md"
+:pageId "655bb1a3-335e-4382-a5d9-050fbc627947"
+:scaleLevel "xl"
 :fill ""
-:compact false
+:compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [832 185.59375]
+:size [800 126]
 :strokeType "line"
 :strokeWidth 2
 :opacity 0
-:id "7129f650-880a-11ee-9787-1958faad71df"
+:id "90f850e0-8809-11ee-9787-1958faad71df"
 :noFill false
-:point [1856 32]
+:point [1344 -128]
 :parentId "655be45e-443f-481b-af66-f74bdba56889"
 :collapsedHeight 0
-:nonce 1700528892671}}
+:nonce 1700528516537}}
 :block/updated-at 1700529042045} 
-{:block/created-at 1700529042042
+{:block/created-at 1700529042045
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :rotation 0
 :borderRadius 2
-:index 0
+:index 1
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -215,16 +216,15 @@
 :strokeWidth 2
 :opacity 1
 :label ""
-:id "c67ac850-880a-11ee-9787-1958faad71df"
+:id "6395ed70-8808-11ee-9787-1958faad71df"
 :fontWeight 400
 :noFill false
-:isLocked false
-:point [1312 -160]
+:point [-128 -160]
 :fontSize 20
 :parentId "655be45e-443f-481b-af66-f74bdba56889"
-:nonce 1700528011691
+:nonce 1700528011593
 :italic false}}
-:block/updated-at 1700529042042})
+:block/updated-at 1700529042045})
 :pages (
 {:block/uuid #uuid "655be45e-443f-481b-af66-f74bdba56889"
 :block/properties 
@@ -239,7 +239,7 @@
 :shapes-index ("c67ac850-880a-11ee-9787-1958faad71df" "6395ed70-8808-11ee-9787-1958faad71df" "aa48d5c0-8808-11ee-9787-1958faad71df" "cc9225f0-8808-11ee-9787-1958faad71df" "55b17340-8809-11ee-9787-1958faad71df" "90f850e0-8809-11ee-9787-1958faad71df" "bb736850-8809-11ee-9787-1958faad71df" "7129f650-880a-11ee-9787-1958faad71df")}}
 :block/namespace 
 {:db/id 85}
-:block/updated-at 1700529042042
+:block/updated-at 1707867261575
 :block/created-at 1700521054665
 :block/type "whiteboard"
 :block/name "mlfq/priority whiteboard"
